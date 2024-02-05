@@ -30,7 +30,7 @@ const Playlist = () => {
   return (
     <div>
       <section
-      id="projects"
+      id="playlist"
       className="w-full py-5 border-b-[0px]"
     ></section>  
       <div className="flex justify-center items-center text-center">
@@ -50,6 +50,9 @@ const Playlist = () => {
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
         loading="lazy"
       />
+      <section
+      className="w-full py-10 border-b-[1px] border-b-black"
+    ></section>  
       <ToastContainer />
     </div>
   );
