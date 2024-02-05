@@ -1,8 +1,8 @@
 import { AiFillAppstore } from "react-icons/ai";
-import {  FaBrain} from "react-icons/fa";
+import {  FaVideo} from "react-icons/fa";
 import { SiProgress} from "react-icons/si";
 import { CgWebsite } from "react-icons/cg";
-import { MdAnalytics } from "react-icons/md";
+import { FaMagnet } from "react-icons/fa";
 
 // Features Data
 export const featuresData = [
@@ -27,18 +27,18 @@ export const featuresData = [
     id: 4,
     icon: <CgWebsite />,
     title: "Web Development",
-    des: "Have completed a MERN stack development course from Udemy. Have developed various projects and hosted them too, check them on my github.",
+    des: "Have completed a MERN stack development course from OneCodeCamp. Deeveloped various projects and implemented various languages and frameworks.",
   },
   {
     id: 5,
-    icon: <MdAnalytics />,
-    title: "Data Analyst",
-    des: "Learned data extraction,cleaning, pattern identification & web scrapping skills during my internship. ALso, trained the ML models.",
+    icon: <FaMagnet />,
+    title: "Lead Generation",
+    des: "Identified and cultivatied potential customers (leads) for a business's products or services.",
   },
   {
     id: 6,
-    icon: <FaBrain />,
-    title: "Machine Learning",
-    des: "Have completed a ML course from Acmegrade(Partner Mood Indigo IITB). Have developed some projects, check them on my github.",
+    icon: <FaVideo />,
+    title: "Video Editing",
+    des: "Edited videos using industry standard video editing softwares such as Adobe Premiere and Davinci Resolve.",
   },
 ];

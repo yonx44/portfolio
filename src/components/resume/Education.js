@@ -26,13 +26,13 @@ const Education = () => {
             title="Highschool Education"
             subTitle="Rosemont Hills Montessori College  (2011 - 2015)"
             result="100%"
-            des="Studied in this school from Grade 8 until Grade 12."
+            des="Studied highshcool from Grade 7 up to Grade 10."
           />
           <ResumeCard
             title="Secondary School Education"
             subTitle="Rosemont Hills Montessori Academy (2007 - 2011)"
             result="100%"
-            des="Studied in this school from Grade 3 until Grade 6."
+            des="Studied primary school from Grade 3 up to Grade 6."
           />
         </div>
       </div>
