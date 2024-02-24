@@ -138,7 +138,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Very good student. Demonstrates greate interest and willigness to learn more in the field of electronics and robotics. Great project!
+                    Very good student. Demonstrates great interest and willigness to learn more in the field of electronics and robotics. Great project!
                   </p>
                 </div>
               </div>
