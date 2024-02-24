@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,projectFour,projectFive,projectSix} from "../../assets/index";
+import { projectOne, projectThree, projectFive, projectSix} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -24,37 +24,23 @@ const Projects = () => {
           websiteLink=""
         />
         <ProjectsCard
-          title="Responsive Web Design Block"
-          des=" This activity utilzed the use of Media Queries in CSS in order to create webpages that can be viewed on muitipe devices. "
-          src={projectTwo}
-          githubLink="https://github.com/yonx44"
-          websiteLink=""
-        />
-        <ProjectsCard
           title="Bootstrap Weather App"
-          des=" Interactive weather app created using Boostrap Framework for CSS Design. "
+          des=" Interactive weather app created using Boostrap Framework for CSS Design with API integration to get accurate and up-to-date weather information. "
           src={projectThree}
           githubLink="https://github.com/yonx44"
           websiteLink=""
         />
         <ProjectsCard
-          title="Javascript Timer"
-          des=" To create a website which plays Cartoon/Show songs' audio when user clicks on a particular cartoon image. Using HTML,CSS,JS,Bootstrap to bundle the songs we loved during our childhood!"
-          src={projectFour}
-          githubLink="https://github.com/yonx44"
-          websiteLink=""
-        />
-        <ProjectsCard
-          title="Click Counter"
-          des=" This is a weather website created using HTML,CSS,Bootstrap,Node.js,Express.js and OpenWeather API ."
-          src={projectFive}
-          githubLink="https://github.com/yonx44"
-          websiteLink=""
-        />
-        <ProjectsCard
-          title="React Bootstrap Website"
-          des=" This project uses various libraries like to detect human face from a given image, detect a face from a live -webcam video and to create an attendance system."
+          title="Line Follower Robot"
+          des=" This project used infrared sensors with Arduino as the microcontroller to navigate and follow a line. "
           src={projectSix}
+          githubLink="https://github.com/yonx44"
+          websiteLink=""
+        />
+        <ProjectsCard
+          title="Portable Sensor Calibrator"
+          des=" A Portable Microcontroller-Based Sensor Calibrator for Ultrasonic and Position Sensors. Served as the final research project for graduating Electronics Engineering. A portable device with a microcontroller which callibrates different positions sensors used in laboratories."
+          src={projectFive}
           githubLink="https://github.com/yonx44"
           websiteLink=""
         />

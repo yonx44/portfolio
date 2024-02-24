@@ -1,42 +1,28 @@
-import { AiFillAppstore } from "react-icons/ai";
-import {  FaVideo} from "react-icons/fa";
-import { SiProgress} from "react-icons/si";
+import { FaVideo} from "react-icons/fa";
 import { CgWebsite } from "react-icons/cg";
-import { FaMagnet } from "react-icons/fa";
+import { LuCircuitBoard } from "react-icons/lu";
 
 // Features Data
 export const featuresData = [
   {
     id: 1,
-    title: "Project Management",
-    des: "Want to gain real-life experience of managing a complete software project cycle.",
+    title: "Technical Support",
+    des: "Applied proficiency in Information Technology by resolving a lot of client's technical concerns.",
   },
   {
     id: 2,
-    icon: <AiFillAppstore />,
-    title: "App Development",
-    des: "Will learn this soon in near future !",
+    icon: <LuCircuitBoard />,
+    title: "PCB Fabrication",
+    des: "Created various PCB Designs used in different research projects.",
   },
   {
     id: 3,
-    icon: <SiProgress />,
-    title: "SEO Optimisation",
-    des: "Will learn this soon in near future !",
+    icon: <CgWebsite />,
+    title: "Web Development",
+    des: "Have completed a MERN stack development course from OneCodeCamp. Deeveloped various projects using different languages and frameworks.",
   },
   {
     id: 4,
-    icon: <CgWebsite />,
-    title: "Web Development",
-    des: "Have completed a MERN stack development course from OneCodeCamp. Deeveloped various projects and implemented various languages and frameworks.",
-  },
-  {
-    id: 5,
-    icon: <FaMagnet />,
-    title: "Lead Generation",
-    des: "Identified and cultivatied potential customers (leads) for a business's products or services.",
-  },
-  {
-    id: 6,
     icon: <FaVideo />,
     title: "Video Editing",
     des: "Edited videos using industry standard video editing softwares such as Adobe Premiere and Davinci Resolve.",

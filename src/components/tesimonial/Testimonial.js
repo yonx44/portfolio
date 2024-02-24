@@ -121,12 +121,12 @@ const Testimonial = () => {
                 <img className="w-20 lgl:w-32" src={quote} alt="quote" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
-                    <div>
+                    <div class="text-center">
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        After School Diaries 
+                        ECE Tech 4 
                       </h3>
                       <p className="text-base text-gray-400 mt-3" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                        via Upwork - March 2023
+                        on Line Follower Robot Project
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -138,7 +138,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Very good concept of bundling all the old cartoons and shows' songs together on one page. It is quite nostalgic for the Gen Z. The slide effect is amazing and UI is smooth. Very good project !
+                    Very good student. Demonstrates greate interest and willigness to learn more in the field of electronics and robotics. Great project!
                   </p>
                 </div>
               </div>
@@ -172,10 +172,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        IPL Win Predictor
+                        Research Project Panelist
                       </h3>
                       <p className="text-base text-gray-400 mt-3"  style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                        via Fiverr - May 2023
+                        on Thesis Project
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -187,7 +187,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                  Very useful project for predicting the win probability of chasing team using historical ipl data from kaggle and logistic regression for binary classification. 
+                  The reasearch project presented provides a very useful application in electronic laboratories and has the potential to used commercially. 
                   </p>
                 </div>
               </div>
@@ -218,12 +218,12 @@ const Testimonial = () => {
                 <img className="w-20 lgl:w-32" src={quote} alt="quote" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
-                    <div>
+                    <div class="text-center">
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Secrets Sharing Website
+                        Working and Learning
                       </h3>
                       <p className="text-base text-gray-400 mt-3" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                        via Freelancer - Mar 2023
+                        on work and life balance
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -235,7 +235,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Good concept of sharing stories and secrets without the fear of anyone judging you or Google tracking you to bombard related advertisements (😂).
+                    Never stops learning and never gives up even if faced with difficulties in life.
                   </p>
                 </div>
               </div>
