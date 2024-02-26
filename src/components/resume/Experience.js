@@ -37,7 +37,7 @@ const Experience = () => {
           />
           <ResumeCard
             title="Laboratory Assistant"
-            subTitle="Special Applications Laboratory - (10/11/20217 - 5/15/2020)"
+            subTitle="Special Applications Laboratory - (10/11/2017 - 5/15/2020)"
             result="University of San Carlos, Cebu, Philippines"
             des="Assists the professor during laboratory class hours. Also in charge of maintaining the laboratory room and equipment"
           />
